@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
+#if UNITY_EDITOR
 using UnityEditor;
+
 
 public class ShowAnimation : MonoBehaviour {
 
@@ -75,3 +77,4 @@ public class ShowAnimation : MonoBehaviour {
 		CurAnimName = clips [CurAnimClip].name;
 	}
 }
+#endif
