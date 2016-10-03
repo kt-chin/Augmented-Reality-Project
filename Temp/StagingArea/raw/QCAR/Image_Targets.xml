@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leaves_3star_grayscale" size="100.000000 100.000000" />
+    <ImageTarget name="bitmask_trackable_colored_contrasted" size="100.000000 100.000000" />
+    <ImageTarget name="download" size="100.000000 70.149254" />
+    <ImageTarget name="test_AR" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
